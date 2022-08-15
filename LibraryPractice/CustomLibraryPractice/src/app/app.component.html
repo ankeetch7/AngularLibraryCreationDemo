@@ -1,0 +1,11 @@
+<div class="form-container">
+  <form [formGroup]="demoForm" (ngSubmit)="onSubmit()">
+    <input type="text" formControlName="str" />
+    <br />
+    <input type="submit" value="Click Here" />
+  </form>
+</div>
+
+<div class="show-output">
+  <h3>The length of given string is {{count}}</h3>
+</div>

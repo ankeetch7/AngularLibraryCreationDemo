@@ -1,0 +1,12 @@
+{
+    "name": "my-lib",
+    "description": "This is sample library demo.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Ankit Chamlagain",
+        "email": "ank33tch7@gmail.com"
+    },
+    "license": "Ankit",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts" 
+}
