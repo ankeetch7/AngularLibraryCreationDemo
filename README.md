@@ -1,5 +1,5 @@
 # AngularLibraryCreationDemo
-This project includes the process of creating an library using typescript and also the implementation of the library in angular project.
+This project includes the process of creating a library using typescript and also the implementation of the library in angular project.
 ***************************************************************************************************************************************************
 After you clone the project you must install npm
 To install npm use the follwing command: 
